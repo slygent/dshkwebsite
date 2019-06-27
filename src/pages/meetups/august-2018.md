@@ -26,6 +26,6 @@ location:
   mapsLatitude: 22.287098
   mapsLink: 'https://goo.gl/maps/dVjQPbb8Tbn'
   mapsLongitude: 114.1903743
-  name: Ooosh Hong Kong
+  name: 'Ooosh Hong Kong, 6/F, 101 King''s Road, Fortress Hill, Hong Kong'
 ---
 
