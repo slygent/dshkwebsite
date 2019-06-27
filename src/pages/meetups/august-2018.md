@@ -1,6 +1,6 @@
 ---
 templateKey: meetup
-title: July 2019
+title: Real estate and blockchain
 date: 2019-07-10T11:30:00.000Z
 presenters:
   - image: /img/ezimba.jpg
@@ -26,6 +26,6 @@ location:
   mapsLatitude: 22.287098
   mapsLink: 'https://goo.gl/maps/dVjQPbb8Tbn'
   mapsLongitude: 114.1903743
-  name: 'Ooosh Hong Kong, 6/F, 101 King''s Road, Fortress Hill, Hong Kong'
+  name: Ooosh Hong Kong
 ---
 
