@@ -6,8 +6,11 @@ mainImage:
   imageAlt: Everyone is welcome to present or attend
 gallery:
   - image: /img/image-uploaded-from-ios-1-1568x1176.jpg
+    imageAlt: dshk1
   - image: /img/p1010064.jpg
+    imageAlt: dshk2
   - image: /img/img_20180204_103740_hdr.jpg
+    imageAlt: dshk3
 developerGroups: '##'
 organizers:
   title: Group Organizers
