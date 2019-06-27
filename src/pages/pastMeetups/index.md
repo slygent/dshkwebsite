@@ -1,6 +1,7 @@
 ---
 templateKey: past-meetups-page
 title: Past Meetups
+path: /meetups
 seo:
   browserTitle: Past Meetups | Data Science Hong Kong
   description: View the topics that were presented at past Data Science Hong Kong meetups.
