@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
+  image: /img/dshklogo.jpeg
   imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Upcoming Meetup
+title: The data science community of Hong Kong
+upcomingMeetupHeading: Upcoming meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
@@ -12,17 +12,19 @@ callToActions:
     heading: Past Meetups
     linkType: internal
     linkURL: /meetups
-    subHeading: Look at what topics were presented at past meetups.
+    subHeading: ''
   secondCTA:
-    heading: Volunteer to Present
+    heading: Get in touch
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
-    subHeading: Want to present at an upcoming meetup? Contact us.
+    linkURL: 'mailto:contact@datasciencehongkong.com'
+    subHeading: >-
+      Want to present at an upcoming meetup? Got questions about data science in
+      Hong Kong? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Data Science Hong Kong
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+    Data science meetup group in Hong Kong where datat scientists and friends
+    get together for presentations and to meet others in the community.
+  title: Data Science Hong Kong
 ---
 
