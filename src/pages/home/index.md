@@ -2,8 +2,8 @@
 templateKey: home-page
 headerImage:
   image: /img/dshklogo.jpeg
-  imageAlt: JavaScript Wakanda
-title: The data science community of Hong Kong
+  imageAlt: Data Science Hong Kong
+title: 'DSHK: the data science community of Hong Kong'
 upcomingMeetupHeading: Upcoming meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
