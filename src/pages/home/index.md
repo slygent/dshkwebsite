@@ -12,7 +12,7 @@ callToActions:
     heading: Past Meetups
     linkType: internal
     linkURL: /meetups
-    subHeading: ''
+    subHeading: See previous meetups
   secondCTA:
     heading: Get in touch
     linkType: external
