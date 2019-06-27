@@ -28,8 +28,7 @@ export const FooterTemplate = ({ data }) => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <img
-                      className="footer-socialLinkIcon"
+                    <img className="footer-socialLinkIcon"
                       src={socialLink.image}
                       alt={socialLink.imageAlt}
                     />
@@ -42,8 +41,8 @@ export const FooterTemplate = ({ data }) => {
         </div>
         <div className="footer-bottom">
           <div className="footer-flag">
-            <span role="img" aria-label="Made in Canada">
-              🇨🇦
+            <span role="img" aria-label="Made in Hong Kong">
+              🇭🇰
             </span>
           </div>
         </div>
