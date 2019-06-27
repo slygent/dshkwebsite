@@ -11,14 +11,14 @@ gallery:
     imageAlt: dshk2
   - image: /img/img_20180204_103740_hdr.jpg
     imageAlt: dshk3
-developerGroups: '##'
+developerGroups: '## ...'
 organizers:
   title: Group Organizers
   gallery:
     - image: /img/ezimba.jpg
       imageAlt: Guy Freeman
       name: Guy Freeman
-    - image: ''
+    - image: /img/morriswong.jpg
       imageAlt: Morris Wong
       name: Morris Wong
 seo:
