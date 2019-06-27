@@ -14,17 +14,18 @@ presenters:
       almost 2 million flats in Hong Kong is hard... but not as hard to
       everything that comes before and after! Guy Freeman explains how a
       real-world data science project comes to fruition.
-  - image: /img/marius-ciocirlan-398931-unsplash.jpg
-    name: Ben Wilson
-    presentationTitle: Memoizing functions
+  - image: /img/image04.jpg
+    name: Alex Svanevik
+    presentationTitle: Why blockchain is a data scientist's dream
     text: >-
-      Ben will tell us all about the power of functional programming,
-      specifically memoization and how it can help speed up frequently used side
-      effect-less functions.
+      Blockchain blockchain blockchain, it's everywhere. But behind the hype,
+      blockchain is "just" a distributed database, which means, DATA. Alex takes
+      us through why and how data scientists should rejoice in blockchain's data
+      cornucopia.
 location:
-  mapsLatitude: 64.843779
-  mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
-  mapsLongitude: -147.718189
-  name: Fairbanks Ice Museum
+  mapsLatitude: 22.287098
+  mapsLink: 'https://goo.gl/maps/dVjQPbb8Tbn'
+  mapsLongitude: 114.1903743
+  name: Ooosh Hong Kong
 ---
 
