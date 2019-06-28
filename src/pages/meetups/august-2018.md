@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: Real estate and blockchain
-date: 2019-07-10T11:30:00.000Z
+date: 2019-07-10T19:30:00.000Z
 presenters:
   - image: /img/ezimba.jpg
     links:
