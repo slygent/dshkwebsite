@@ -7,6 +7,8 @@ presenters:
     links:
       - linkText: truehome.hk
         linkURL: 'https:///truehome.hk'
+      - linkText: Slides
+        linkURL: 'https://slides.com/slygent/valuing-hongkong-homes'
     name: Guy Freeman
     presentationTitle: How to value all residential homes in Hong Kong
     text: >-
@@ -15,6 +17,9 @@ presenters:
       everything that comes before and after! Guy Freeman explains how a
       real-world data science project comes to fruition.
   - image: /img/image04.jpg
+    links:
+      - linkText: d5.ai
+        linkURL: 'https://d5.ai'
     name: Alex Svanevik
     presentationTitle: Why blockchain is a data scientist's dream
     text: >-
