@@ -33,6 +33,10 @@ presenters:
     name: Olivier Kuziner
     presentationTitle: 'Olivier Kuziner, Partner of Ekimetrics'
   - image: /img/b1f8931116374a538a96cf2cb732a6d5.jpg
+    links:
+      - linkText: Event details and sign-up
+        linkURL: >-
+          https://events.robertwalters.com/event/3d78e05f-2905-47b3-a3bd-d95d6bd3f3b0/summary?RefId=RWHK&rt=c4hjB8Bc4kCsPjpVtE5DIw
     name: Jeffrey Ng
     presentationTitle: 'Jeffrey Ng, Head of Fintech Solutions, Ping An OneConnect Bank'
 location:
