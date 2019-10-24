@@ -5,6 +5,10 @@ logoImage:
   imageAlt: Data Science Hong Kong
   tagline: Hong Kong's data science community
 socialLinks:
+  - image: /img/discourse.svg
+    imageAlt: Join our Discourse forum
+    label: Our Discourse forum
+    linkURL: 'https://discourse.datasciencehongkong.com'
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
     label: meetup.com
