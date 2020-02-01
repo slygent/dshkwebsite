@@ -12,6 +12,10 @@ socialLinks:
   - imageAlt: ''
     label: Eventbrite
     linkURL: 'https://www.eventbrite.hk/o/data-science-hong-kong-14736176180'
+  - image: /img/yt_logo_rgb_dark.png
+    imageAlt: ''
+    label: YouTube
+    linkURL: 'https://www.youtube.com/channel/UC6xrF3O1aJxNXho9v_TYBMg'
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
     label: Meetup
