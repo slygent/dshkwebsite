@@ -16,7 +16,7 @@ callToActions:
   secondCTA:
     heading: Get in touch
     linkType: external
-    linkURL: 'mailto:contact@datasciencehongkong.com'
+    linkURL: 'https://discourse.datasciencehongkong.com'
     subHeading: >-
       Want to present at an upcoming meetup? Got questions about data science in
       Hong Kong? Contact us.
