@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: 'ONLINE free tutorial: data science versus novel coronavirus'
-date: 2020-02-09T04:01:00.000Z
+date: 2020-02-09T12:01:00.000Z
 presenters:
   - image: /img/ezimba.jpg
     links:
