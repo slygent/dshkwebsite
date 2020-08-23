@@ -5,6 +5,9 @@ logoImage:
   imageAlt: Data Science Hong Kong
   tagline: Hong Kong's data science community
 socialLinks:
+  - image: /img/discord-logo.jpg
+    label: Discord
+    linkURL: 'https://discord.gg/Vab3EnV'
   - image: /img/discourse.svg
     imageAlt: Join our Discourse forum
     label: Our Discourse forum
@@ -28,12 +31,5 @@ socialLinks:
     imageAlt: Join our Facebook group
     label: Facebook
     linkURL: 'https://www.facebook.com/datascihk'
-  - image: /img/email.svg
-    imageAlt: Contact us by email
-    label: email us
-    linkURL: 'mailto:contact@datasciencehongkong.com'
-  - image: /img/discord-logo.jpg
-    label: Discord
-    linkURL: 'https://discord.gg/Vab3EnV'
 ---
 
