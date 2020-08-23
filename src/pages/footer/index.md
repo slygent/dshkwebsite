@@ -32,5 +32,8 @@ socialLinks:
     imageAlt: Contact us by email
     label: email us
     linkURL: 'mailto:contact@datasciencehongkong.com'
+  - image: /img/discord-logo.jpg
+    label: Discord
+    linkURL: 'https://discord.gg/Vab3EnV'
 ---
 
